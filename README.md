@@ -2,5 +2,5 @@
 
 A collection of notes using [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) methodology.
 
-- [Literature]() \
+- [Literature]()
 - [Slipbox]()
